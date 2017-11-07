@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="Regression_BitbucketTestRepository"
+id="383fb59f-c454-4cac-a7be-c407bf4ecf47"
+rxversion="7.2">
+  <codegen
+  classname="Regression_BitbucketTestRepository"
+  namespace="Regression_BitbucketTest"/>
+  <rootfolder
+  name="Root"
+  id="66939c33-cd17-4633-abfa-22457226b0d8"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

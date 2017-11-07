@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Regression_BitbucketTest"
+      id="ad6bf9ab-3db8-495f-8da1-c976933395ff"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Regression_BitbucketTest"
+      id="ad6bf9ab-3db8-495f-8da1-c976933395ff"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

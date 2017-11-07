@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="f78de8a9-bf8f-4d5f-9ac4-3bb981049e39"
+mode="Global"
+rxversion="7.2">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="Regression_BitbucketTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="383fb59f-c454-4cac-a7be-c407bf4ecf47"
+	name="Regression_BitbucketTestRepository"
+	relativepath="Regression_BitbucketTestRepository.rxrep"
+	rxversion="7.2">
+		<codegen
+		classname="Regression_BitbucketTestRepository"
+		namespace="Regression_BitbucketTest">
+		</codegen>
+		<rootfolder
+		id="66939c33-cd17-4633-abfa-22457226b0d8"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
