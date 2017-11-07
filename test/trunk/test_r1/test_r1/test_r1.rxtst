@@ -3,6 +3,10 @@
 rxversion="7.2">
 	<testsuiteentryhierarchy>
 		<flatlistofchildren>
+			<testcase
+			id="31d1981f-0245-45c4-a882-3e34e4e89a6b"
+			name="test2">
+			</testcase>
 			<testsuite
 			ReportTime="RelativeToTestSuiteStartTime"
 			TracingScreenshotMode="Foreground"
@@ -56,6 +60,10 @@ rxversion="7.2">
 					id="d792da24-b4a8-4c0a-91e6-64dca6c1c5d0"
 					name="test1">
 					</testcase>
+					<testcase
+					id="31d1981f-0245-45c4-a882-3e34e4e89a6b"
+					name="test2">
+					</testcase>
 				</testcase>
 			</testsuite>
 		</childhierarchy>
@@ -66,6 +74,9 @@ rxversion="7.2">
 	default="TestRun">
 		<testconfiguration
 		name="TestRun">
+			<testcontainer
+			id="31d1981f-0245-45c4-a882-3e34e4e89a6b">
+			</testcontainer>
 			<testcontainer
 			id="b595574e-f4dc-4fca-a75d-a2bb71f8cd74">
 			</testcontainer>
