@@ -1,0 +1,9 @@
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\bin\Debug\test_r1.rxtmg
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\bin\Debug\test_r1.rxtst
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\bin\Debug\test_r1.exe.config
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\bin\Debug\test_r1.exe
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\bin\Debug\test_r1.pdb
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\obj\x86\Debug\test_r1.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\obj\x86\Debug\test_r1.exe
+C:\Users\Alejandro.leal\Documents\Ranorex\RanorexStudio Projects\test\trunk\test_r1\test_r1\obj\x86\Debug\test_r1.pdb
