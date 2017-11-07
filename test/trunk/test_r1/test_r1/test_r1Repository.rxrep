@@ -1,0 +1,54 @@
+﻿<repository
+id="d3b9475b-9f8c-49c9-bfd7-ce2071024159"
+name="test_r1Repository"
+rxversion="7.2">
+	<codegen
+	classname="test_r1Repository"
+	namespace="test_r1">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="2ecd9d08-6432-41e3-ba6a-a5518cbeb370"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="db4a4d3e-c965-4334-a7c8-4c5ae9d067ff"
+		isrooted="True"
+		name="Trunk"
+		refpath="/form[@title='trunk']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="list,accessible"
+			capname="list"
+			id="573c4379-acaa-43bc-9ce7-9a31980ff2c2"
+			name="ItemsView"
+			refimgid="c830ba0e-c809-4d61-99a3-8f00019a4e9b"
+			refpath="/form[@title='trunk']/element[@class='ShellTabWindowClass']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/list[@accessiblename='Items View']"
+			searchtimeout="30000ms">
+				/form[@title='trunk']/element[@class='ShellTabWindowClass']//element[@instance='1']/container[@caption='ShellView']/?/?/list[@accessiblename='Items View']
+			</item>
+			<basepath>
+				/form[@title='trunk']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAEwSURBVDhPjZJLTsNAEETnCNyIVTBJjNhyHYT4
+CQQCIRAIRAQHicIv/ANHQHJsx3YwYY0ouqc7ZJFEMyWVevVqPl1mqO/3BQzeQgw6Ib7YryHKl7r4
+uY7Pp5p1/7GGoh10FBuJYeSX5AtyA8jOyWfkU6B3Qj4G0iPyIYqHKhQbiU/2gZEeoLifEMDX9oGR
+7COfGEBv9oGR7CFvz48H8Gf5wEh2kd1NDXDDiHemBNCqfGDE28hug/EA3rEP/Buto3cToGzOzigq
+sgEOGPEWlWqJ1rhIIZWmoiJumAtGd9Oe/vOxbKeioj61ywWju4H0eu5/KirierpgRGtIryhAp6Ii
+rqcLRrSKxAbIVFTE9XTBiFaQtDhApqIiricXxJr2zJ/E5rfydflEhuJWZThLY4z5A+YuloRxRSPn
+AAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
